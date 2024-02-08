@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Open+Sans:wght@300&family=Poppins:wght@200;300&family=Roboto:ital,wght@0,100;0,300;0,400;0,900;1,100;1,300&family=Titillium+Web:wght@600&family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Dancing+Script:wght@700&family=Kanit&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-2 {
+    list-style: none;
+    font-weight: bold;
+    font-size: 8px;
+    display: flex;
+    margin-top: 2px;
+    gap: 30px;
+}
+.navbar-2 h2{
+    font-size: 10px;
+}
+.li ul{
+    display: flex;
+    list-style: none;
+    margin-left: 500px;
+    gap: 40px;
+    font-size: 13px;
+    font-weight: bold;
+    position: relative;
+    bottom: 25px;
+}
+.navbar-3 ul {
+    list-style: none;
+    display: flex;
+}
+.navbar-1 h1{
+    font-size:25px;
+    font-weight: bold;
+    color: #E58268;
+    margin-left: 50px;
+}
+.nvbr{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+.icon p{
+    display: flex;
+    justify-content: end;
+    font-size: 13px;
+    position: relative;  font-weight: bold;    
+    right: 40px;
+    bottom: 40px;
+}
+.fa-circle-info{
+    font-size: 20px;
+    color: #EA9985;
+}
+.text h1{
+    color: #f3b5a4;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+.bandi{
+    display: flex;
+}
+.text span{
+    margin-left: 5px;
+}
+.photo img{
+    margin-left: 100px;
+    height: 480px;
+}
+.text-part h1{
+    font-family: 'Dancing Script';
+    font-size: 95px;
+    margin-left: 100px;
+}
+.text-part button{
+    margin-left: 90px;
+    background-color: transparent;
+    border: 1px solid #999390;
+    height: 55px;
+    color: #4b4846;
+    font-weight: bold;
+    border-radius: 200px;
+    width: 45%;
+}
+.box{
+    background-color: #E2836A;
+    height: 150px;
+    width: 720px;
+    margin-left: 80px;
+}
+.design{
+    display: flex;
+}
+.box h1{
+    color: white;
+    padding-top: 30px;
+    font-size: 28px;
+    margin-left: 50px;
+}.box p{
+    color: white;
+    font-size: 10px;
+    display: flex;
+    justify-content: end;
+    position: relative;
+    bottom: 80px;
+    right: 50px;
+}
+.box h2{
+    font-size: 10px;
+}
+
+.img img{
+    margin-left: 300px;
+    background-color: white;
+}
+.img p{
+    margin-left: 300px;
+    color: #EAA593;
+    font-weight: bold;
+}
+
+
+
+
+
+
